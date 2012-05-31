@@ -236,7 +236,7 @@ class @Gmaps4RailsOpenlayers extends Gmaps4Rails
 
     @polylinesLayer.addFeatures([polyline])
 
-	return polyline
+    return polyline
 
   # #////////////////////////////////////////////////////
   # #/////////////////// Other methods //////////////////
